@@ -1,0 +1,5 @@
+{
+  "name": "RunIt",
+  "description": "A coding practice platform with real-time code execution via Judge0 API.",
+  "requestFramePermissions": []
+}
